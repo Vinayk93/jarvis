@@ -1,0 +1,6 @@
+node_modules
+test
+tasks
+logs
+.DS_Store
+lib/helpers/data
